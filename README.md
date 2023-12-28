@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ammumoulya
+- 👋 Hi, I’m Mamatha.P
 - 👀 I’m interested in learn programming languages.
-- 🌱 I’m currently learning computer science and engineering 3rd year
+- 🌱 I’m currently pursuing computer science and engineering in 3rd year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ammu08243@gmail.com
 
